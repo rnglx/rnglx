@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=33&color=38F700&vCenter=true&width=600&height=37&lines=Ol%C3%A1%2C+sou+o+Lucas!;%3E%3Csvg%2Fonload%3Dalert(%22Gotcha!%22)%3E)](https://home.spawnmc.me)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=33&color=38F700&vCenter=true&width=600&height=37&lines=Hi%2C+I´m++Lucas!;%3E%3Csvg%2Fonload%3Dalert(%22Gotcha!%22)%3E)](https://home.spawnmc.me)
 
 * Cyber Sec.
 * Pentest
