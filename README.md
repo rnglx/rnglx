@@ -3,6 +3,7 @@
 * Cyber Sec.
 * Pentest
 * Networks
+* AppSec
 * AI
 
 
